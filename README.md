@@ -1,8 +1,8 @@
 # Coursera_Getting_and_Cleaning_Data
 Course Project
 This repository hosts the R code and documentation files for the Data Science's course Getting and Cleaning data, offered in coursera.
-The UCI Human Activity Recognition (HAR) Using Smartphones dateset files is used in this analysis.
-The code assumes that data is in the same folder (UCI HAR Dataset), un-compressed and without names altered.
+The University of California Irvine’s (UCI), Human Activity Recognition (HAR) using Smartphones Dataset files is used in this analysis.
+The code assumes that data is in the same folder UCI’s HAR Dataset, un-compressed and without names altered.
 The CodeBook.md briefly explains the variables, the data, and any changes or work that was dome to clean up the data.
 The run_analysis.R code has all the codes to initiate and complete the analysis described in these five steps; 
 
@@ -14,3 +14,4 @@ The run_analysis.R code has all the codes to initiate and complete the analysis 
 
 This analysis code can be sourced in RStudio via the folder setwd("~/Rspace/UCI HAR Dataset"). The UCI HAR Dataset folder contains; test, train, activity_labels.txt, features.txt, features_info.txt, README.txt and tidyData.txt files.
 The result of the fifth step is called mean_data.txt, it has been uploaded in the course project page.
+
