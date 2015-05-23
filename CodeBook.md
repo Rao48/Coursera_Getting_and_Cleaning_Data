@@ -1,4 +1,4 @@
-The dataset was downloaded from Human Activity Recognition Using Smartphones Data Set. Abstract: Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors. The download has two options; Data folder and Data Set description.
+The dataset was downloaded from Human Activity Recognition using Smartphones Data Set. Abstract: Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors. The download has two options; Data folder and Data Set description.
 Abstract: Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.	
 Data Set Characteristics:  	Multivariate, Time-Series	Number of Instances:	10299	Area:	Computer
 Attribute Characteristics:	N/A	Number of Attributes:	561	Date Donated	2012-12-10
